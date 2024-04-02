@@ -63,7 +63,7 @@ The first code block initializes the emotion detection pipeline and processes ea
 - **Frame Processing:**
   - The video frames are read sequentially.
   - For every 300 frames, the frame is converted to a PIL image and fed into the emotion detection model.
-  - The predicted emotion for each frame is printed and saved to disk.
+  - The predicted emotion for each frame is printed and saved to disk (Here, it stores the analysed frames in `emo` folder).
 
 ### Code 2: With Intel Optimization
 
