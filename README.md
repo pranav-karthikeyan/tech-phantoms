@@ -1,1 +1,1 @@
-# tech-phantoms
+# Tech-phantoms Intel AI Hackathon Prototype
